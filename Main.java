@@ -4,7 +4,7 @@ import javax.swing.text.Document;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
-public class TextEditor{
+public class Main{
 	
 	public static void main(String[] args) {
 		JFrame window = new JFrame();
